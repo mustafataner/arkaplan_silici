@@ -1,3 +1,4 @@
 streamlit==	1.29.0
-pyqrcode== 1.2.1
-pypng	==0.20220715.0
+rembg==2.0.53
+numpy== 1.26.2
+
